@@ -35,3 +35,4 @@ alongside its stock wallpapers — no theme files are modified.
 | File | Description |
 |------|--------------|
 | `backgrounds/audi-quattro-intense.jpg` | Synthwave-style Audi Quattro rally car at sunset — works well with any neon/retro-leaning theme, but drop it into whichever theme folder you like |
+| `backgrounds/quattro-mouton-ghibli.jpg` | Ghibli-style illustration of a rally driver beside an Audi Sport livery car at sunset — same retro rally aesthetic, any theme folder works |
